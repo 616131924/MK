@@ -1,6 +1,16 @@
 # yyj
 
-> A Vue.js project
+一个全栈开发项目。Vue作为前端框架，Vux作为组件库，利用axios向后台获取数据。后台使用nodejs与mysql搭建而成。
+
+涉及技术：
+       Vue
+       node.js
+       jwt
+       vux
+       vue router
+       koa2
+       mysql
+       
 
 ## Build Setup
 
