@@ -8,11 +8,13 @@ const koa2 = require('koa')
   ,koajwt =require('koa-jwt')
   ,multermodle=require('koa-multer')
   ,serve= require('koa-static')
+  ,historyApiFallBack= require('koa-history-api-fallback')
 
 const app =new koa2();
 const koa=new koarouter();
 //const multer=multermodle({dest:'./server/public'})
 
+app.use(historyApiFallBack())
 app.use(require('koa-bodyparser')());
 app.use(json());
 app.use(logger());
