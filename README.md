@@ -14,10 +14,10 @@
 手机效果： </br>
    ![Image text](https://github.com/616131924/MK/blob/master/server/public/c9d8f4292dde32fbf640bdfb1a49fded.png)
    </br>
-   ![Image text]
+   
    (https://github.com/616131924/MK/blob/master/server/public/1f09500071c2c34830f638f475da8cdd.png)
     </br>
-    ![Image text]
+    
     (https://github.com/616131924/MK/blob/master/server/public/0bc083189952a5eb9f874df97ee57d88.png)
 ## Build Setup
 
